@@ -5,10 +5,10 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/Shemnei/punktf/releases/download/v$version/punktf-i686-pc-windows-msvc.zip"
+            "url": "https://github.com/Shemnei/punktf/releases/download/v2.0.0/punktf-i686-pc-windows-msvc.zip"
         },
         "64bit": {
-            "url": "https://github.com/Shemnei/punktf/releases/download/v$version/punktf-x86_64-pc-windows-msvc.zip"
+            "url": "https://github.com/Shemnei/punktf/releases/download/v2.0.0/punktf-x86_64-pc-windows-msvc.zip"
         }
     },
     "hash": {
