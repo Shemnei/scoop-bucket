@@ -13,7 +13,7 @@
             "hash": "66aa983ff28a354bdb2ee5cd0308d64cbc9d56387e6eadcab95069a506884692"
         }
     },
-    "extract_to": "",
+    "extract_to": "bin",
     "bin": "punktf.exe",
     "checkver": "github",
     "autoupdate": {
