@@ -6,23 +6,26 @@
     "architecture": {
         "32bit": {
             "url": "https://github.com/Shemnei/punktf/releases/download/v2.0.0/punktf-i686-pc-windows-msvc.zip",
-            "hash": "b7e9bddeb6974de7b1d9adb4d1f6b331bbc93e3fd8ae9dd99f84a63b45ef42c1"
+            "hash": "b7e9bddeb6974de7b1d9adb4d1f6b331bbc93e3fd8ae9dd99f84a63b45ef42c1",
+            "extract_dir": "punktf-i686-pc-windows-msvc"
         },
         "64bit": {
             "url": "https://github.com/Shemnei/punktf/releases/download/v2.0.0/punktf-x86_64-pc-windows-msvc.zip",
-            "hash": "66aa983ff28a354bdb2ee5cd0308d64cbc9d56387e6eadcab95069a506884692"
+            "hash": "66aa983ff28a354bdb2ee5cd0308d64cbc9d56387e6eadcab95069a506884692",
+            "extract_dir": "punktf-x86_64-pc-windows-msvc"
         }
     },
-    "extract_to": "bin",
     "bin": "punktf.exe",
     "checkver": "github",
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://github.com/Shemnei/punktf/releases/download/v$version/punktf-i686-pc-windows-msvc.zip"
+                "url": "https://github.com/Shemnei/punktf/releases/download/v$version/punktf-i686-pc-windows-msvc.zip",
+                "extract_dir": "punktf-i686-pc-windows-msvc"
             },
             "64bit": {
-                "url": "https://github.com/Shemnei/punktf/releases/download/v$version/punktf-x86_64-pc-windows-msvc.zip"
+                "url": "https://github.com/Shemnei/punktf/releases/download/v$version/punktf-x86_64-pc-windows-msvc.zip",
+                "extract_dir": "punktf-x86_64-pc-windows-msvc"
             }
         },
         "hash": {
