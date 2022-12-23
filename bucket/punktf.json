@@ -1,17 +1,17 @@
 {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "description": "A cross-platform multi-target dotfiles manager",
     "homepage": "https://github.com/Shemnei/punktf",
     "license": "Apache-2.0|MIT",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/Shemnei/punktf/releases/download/v2.0.0/punktf-i686-pc-windows-msvc.zip",
-            "hash": "b7e9bddeb6974de7b1d9adb4d1f6b331bbc93e3fd8ae9dd99f84a63b45ef42c1",
+            "url": "https://github.com/Shemnei/punktf/releases/download/v3.0.0/punktf-i686-pc-windows-msvc.zip",
+            "hash": "4e9f10efd150ca962e57457992a9192c66ccab32015a6db10c5da1ceea0f4402",
             "extract_dir": "punktf-i686-pc-windows-msvc"
         },
         "64bit": {
-            "url": "https://github.com/Shemnei/punktf/releases/download/v2.0.0/punktf-x86_64-pc-windows-msvc.zip",
-            "hash": "66aa983ff28a354bdb2ee5cd0308d64cbc9d56387e6eadcab95069a506884692",
+            "url": "https://github.com/Shemnei/punktf/releases/download/v3.0.0/punktf-x86_64-pc-windows-msvc.zip",
+            "hash": "31f4bfbdfd8dd7098cec2ebd4c8a0f13a6ae21e97ce5f0aece93919dc99c7e56",
             "extract_dir": "punktf-x86_64-pc-windows-msvc"
         }
     },
